@@ -1,3 +1,9 @@
+tzdata (2016j-0ubuntu0.16.04) xenial; urgency=medium
+
+  * New upstream release, updating Saratov, Tongatapu, Cyprus, and Casey.
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Wed, 07 Dec 2016 03:03:42 -0700
+
 tzdata (2016h-0ubuntu0.16.04) xenial; urgency=critical
 
   * New upstream release, with urgent DST changes for Asia/{Gaza,Hebron}.
