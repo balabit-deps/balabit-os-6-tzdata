@@ -1,3 +1,9 @@
+tzdata (2018e-0ubuntu0.16.04) xenial; urgency=medium
+
+  * New upstream release.  LP: #1750627
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 27 Sep 2018 08:57:44 -0700
+
 tzdata (2017c-0ubuntu0.16.04) xenial; urgency=medium
 
   * New upstream release (LP: #1712675, #1696298, #1691092)
